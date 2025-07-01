@@ -20,6 +20,7 @@ Clients typically make hotel reservations in the same year they subsequently can
 Research Question ❓
 
 What are the variables that effect hotel reservation cancellations?
+
 How can we make hotel reservations cancellation better?
 How all hotels be assisted in making pricing and promotional decisions?
 
